@@ -5,7 +5,7 @@ import datetime
 
 # Professional commit messages
 messages = [
-    "Code formatted using Black 🖤",
+    "Code formatted using Black 🖤🖤",
     "Applied automatic code formatting",
     "Improved code readability",
     "Consistent style applied",
